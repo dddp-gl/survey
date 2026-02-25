@@ -68,4 +68,7 @@ node_modules/
 public/
 batch/
 definition.md
-.txt
+*.txt
+*.json
+.firebaserc
+.gitignore
