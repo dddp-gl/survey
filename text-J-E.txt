@@ -1,0 +1,136 @@
+民主主義は自己統治システムです。
+自己統治システムとは、会社で言えば、社長が私たち国民で、管理職が政府で、従業員が私たち国民という形態です。
+社長の役割は、会社の現在・将来を考えて管理職に指示を与えることです。
+管理職はこの指示に従って、従業員に指図します。
+
+会社の重要なことを決めることが社長の役割です。
+国の重要なことを決めることが、私たち国民の役割です。
+
+この調査の目的は、社会課題に対する国民の意思を調らべることです。
+民意は国民投票で明らかにすべきで有り、この調査は、予備調査です。
+
+
+調査に登録しませんか？
+調査の登録は、２０２９年末まで有効です。
+Google アカウントがあれば、誰でも登録できます。
+当該地域の会議リストが設置された場合に、登録を行ないます。
+登録日は、DDDPのニュースサイトに表示します。
+登録者の属性統計は、当該地域の会議リストから閲覧できます。
+
+社会課題に対するあなたの判断は何ですか？
+社会課題の議論の結果、国民の判断を必要とする場合に、調査を行ないます。
+調査日は、会議リストのサイトに表示します。
+集計結果は、会議室から閲覧できます。
+
+ーーーーーーーーーーーーーーーーーーーー
+
+Democracy is a system of self-government. 
+In corporate terms, a self-governing system is one where the president is the people, the management is the government, and the employees are also the people. 
+The president’s role is to consider the company’s present and future and give instructions to management.
+Management follows these instructions and directs the employees.
+
+It is the president’s role to decide important matters for the company. 
+It is our role, as the people, to decide important matters for the country.
+
+The purpose of this survey is to investigate the public's will regarding social issues. 
+The public will should be clarified through a national referendum, and this survey is a preliminary investigation.
+
+
+
+Would you like to register for the survey? 
+Survey registration is valid until the end of 2029. Anyone with a Google account can register.
+Registration will be conducted when the meeting list for the relevant region is established. Registration dates will be posted on the DDDP news site. 
+Registrant demographic statistics can be viewed from the meeting list for the region.
+
+What is your judgment on social issues? When public judgment is required as a result of discussions on social issues, a survey will be conducted. 
+Survey dates will be posted on the meeting list site. 
+Results can be viewed from the meeting room.
+
+
+---------------------------------------------------------
+
+---------------------------------------------------------------------------
+<h3>DDDP Registration</h3>
+
+<h3>登録者名簿について</h3>
+* この名簿に登録することにより、同じエリアまたはサブエリアの社会課題のアンケートに回答できます。
+* 名簿の有効期限は、2029年末日まで有効です。<br>
+* 登録者識別情報は、非公開で、2029年末日に削除します。<br>
+* 登録者の属性情報・調査回答は、統計的に処理し、掲示します。<br>
+* 名簿に登録するためには、GoogleAccount が必要です。
+
+<h3>募集内容</h3>
+(1)対象エリアコード: ${areaR} <br>
+(2)対象サブエリアコード: ${subAreaR} <br>
+
+<h3>登録方法</h3>
+(1)GoogleAccount でログインしてください。<br>
+(2)エリアコード、サブエリアコード、誕生年期間、男女別を選択してください。<br>
+(3)登録ボタンを押してください。<br>
+(4)登録完了のメッセージが表示されます。<br><br>
+
+<h3>注意事項</h3>
+(1)エリアコード、サブエリアコード、誕生年期間、男女別は、登録後変更できません。<br>
+(2)登録は、1人1回です。<br>
+
+---------------------------------------
+<h3>DDDP Registration</h3> 
+<h3>About the Registration List</h3>
+* By registering on this list, you can respond to surveys about social issues in the same area or sub-area. 
+* The registration list is valid until the end of 2029.<br> 
+* Registrant identification information is private and will be deleted at the end of 2029.<br>
+ * Registrant demographic information and survey responses will be processed statistically and posted.<br> 
+ * A Google Account is required to register on the list. 
+ <h3>Registration Details</h3> 
+ (1)Target Area Code: ${areaR} <br> 
+ (2)Target Sub-area Code: ${subAreaR} <br>
+ <h3>Registration Method</h3> 
+ (1)Select your area code, sub-area code, birth year period, and gender.<br> 
+ (2)Please log in with your Google Account.<br>
+ (3)Click the registration button.<br> 
+ (4)A registration completion message will be displayed.<br><br> 
+ <h3>Important Notes</h3> 
+ (1)Area code, sub-area code, birth year period, and gender cannot be changed after registration.<br> 
+ (2)Registration is limited to once per person.<br>
+
+
+--------------------------------------------
+
+<h3>DDDP Survey</h3>
+
+<h3>調査について</h3>
+* 名簿に登録した人が調査に回答できます。
+* 名簿の調査対象は下記の通りです。
+(1)会議室番号(テーマ番号):${meetingNum}
+(2)対象エリアコード: ${areaCodeSurvey} <br>
+(3)対象サブエリアコード: ${subAreaCodeSurvey} <br><br>
+
+<h3>回答方法</h3>
+(1)回答を選択して下さい。<br>
+(2)GoogleAccount でログインしてください。<br>
+(3)投票ボタンを押してください。<br>
+(4)投票完了のメッセージが表示されます。<br><br>
+
+<h3>注意事項</h3>
+(1)最後の回答が有効です。<br>
+
+---------------------------------
+<h3>DDDP Survey</h3>
+<h3>About the Survey</h3>
+* People who are registered on the list can respond to the survey.<br>
+* The target audience for this survey is as follows:<br>
+(1)Meeting Room Number (Theme Number): ${meetingNum}<br>
+(2)Target Area Code: ${areaCodeSurvey} <br>
+(3)Target Sub-area Code: ${subAreaCodeSurvey} <br><br> 
+<h3>How to Respond</h3> 
+(1)Select your answer.<br> 
+(2)Log in with your Google Account.<br> 
+(3)Click the voting button.<br> 
+(4)A voting completion message will be displayed.<br><br> 
+<h3>Important Notes</h3> 
+(1)Only your last response will be valid.<br>
+
+
+
+
+
