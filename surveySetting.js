@@ -9,7 +9,7 @@ const year = 'y2025';//meeting year
 const areaCode ='jp-14---';
 const areaName1 ='japan Kanagawa';
 const areaName2 ='日本 神奈川県';
-const options = [5,3]; //Questions (max:6)
+const options = [5,3]; //Number of options per question,　Maximum number of questions:6
 
 // sample
 // const account = 'zafa834'; // GitHub account
