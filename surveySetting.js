@@ -8,7 +8,7 @@ const thema = 'Sample Thema';
 const year = 'y2025';//meeting year
 const areaCode ='jp-14---';
 const areaName1 ='japan Kanagawa';
-const areaName2 ='日本　神奈川県';
+const areaName2 ='日本 神奈川県';
 const options = [5,3]; //Questions (max:6)
 
 // sample
