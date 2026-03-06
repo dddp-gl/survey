@@ -21,7 +21,7 @@ const options = [5,3]; //Questions (max:6)
 // const areaCode ='jp-14---';
 // const areaName1 ='japan Kanagawa';
 // const areaName2 ='日本　神奈川県';
-// const options = [5,3]; //Questions (max:6)
+// const options = [5,3]; //Number of options per question,　Maximum number of questions:6
 // change code by environment for Node.js and browser
 // for Node.js, export the variables
 
