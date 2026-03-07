@@ -2,7 +2,7 @@
 // Define survey settings constants ----------------------------------------------------------------
 const account = 'zafa834'; // GitHub account
 const repository= 'zafa834-jp-----y2025-a100-p01'; // meetingCode
-const surveySheet= doc1/surveySheet.md; // seuveySheet
+const surveySheet= 'doc1/surveySheet.md'; // seuveySheet
 const surveyDay = '2026/3/7';
 const thema = 'Sample Thema';
 const year = 'y2025';//meeting year
