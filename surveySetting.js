@@ -1,7 +1,7 @@
 // surveySetting.js
 // Define survey settings constants ----------------------------------------------------------------
 const account = 'zafa834'; // GitHub account
-const repository= 'zafa834-jp-----y2025-a100-p01'; // meetingCode
+const repository= 'dddp-jp-----y2025-a100-p01'; // meetingCode
 const surveySheet= 'doc1/surveySheet.md'; // seuveySheet
 const surveyDay = '2026/3/7';
 const thema = 'Sample Thema';
@@ -13,7 +13,7 @@ const options = [5,3]; //Number of options per question,　Maximum number of que
 
 // sample
 // const account = 'zafa834'; // GitHub account
-// const repository= 'zafa834-jp-----y2025-a100-p01'; // meetingCode
+// const repository= 'dddp-jp-----y2025-a100-p01'; // meetingCode
 // const surveySheet= doc1/serveySheet.md; // seuveySheet
 // const surveyDay = '2026/2/25';
 // const thema = 'Sample Thema';
