@@ -9,7 +9,8 @@ const year = 'y2025';//meeting year
 const areaCode ='jp-14---';
 const areaName1 ='japan Kanagawa';
 const areaName2 ='日本 神奈川県';
-const options = [5,3]; //Number of options per question,　Maximum number of questions:6
+const options = [5,3]; //Number of options per question
+const subAreaLevel = 3; // detail level of report
 
 // sample
 // const account = 'zafa834'; // GitHub account
@@ -21,14 +22,17 @@ const options = [5,3]; //Number of options per question,　Maximum number of que
 // const areaCode ='jp-14---';
 // const areaName1 ='japan Kanagawa';
 // const areaName2 ='日本　神奈川県';
-// const options = [5,3]; //Number of options per question,　Maximum number of questions:6
+// const options = [5,3]; //Number of options per question
+// const subAreaLevel = 3; // detail level of report
+
+
 // change code by environment for Node.js and browser
 // for Node.js, export the variables
 
 if (typeof module !== 'undefined' && module.exports) {
     // Node.js
     module.exports = { account,repository,surveySheet,surveyDay,
-        thema,year,areaCode, areaName1,areaName2,options
+        thema,year,areaCode, areaName1,areaName2,options,subAreaLevel
     }
 } else if (typeof window !== 'undefined') {
     // for browser, attach the variables to the window object
@@ -42,6 +46,7 @@ if (typeof module !== 'undefined' && module.exports) {
     window.areaName1 = areaName1;
     window.areaName2 = areaName2;
     window.options = options;
+    window.subAreaLevel = subAreaLevel;
 };
 
 // -----
