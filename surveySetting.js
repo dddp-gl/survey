@@ -3,7 +3,7 @@
 const account = 'zafa834'; // GitHub account
 const repository= 'dddp-jp-----y2025-a100-p01'; // meetingCode
 const surveySheet= 'doc1/surveySheet.md'; // seuveySheet
-const surveyDay = '2026/3/8';
+const surveyDay = '2026/3/12';
 const thema = 'Sample Thema';
 const year = 'y2025';//meeting year
 const areaCode ='jp-14---';
