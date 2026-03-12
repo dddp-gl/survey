@@ -1,2 +1,2 @@
 const areaCodesX1 =['jp','cn'];
-const registerDay ='2026/3/11';
+const registerDay ='2026/3/12';
