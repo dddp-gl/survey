@@ -1,16 +1,16 @@
 // surveySetting.js
 // Define survey settings constants ----------------------------------------------------------------
 const account = 'zafa834'; // GitHub account
-const repository= 'dddp-jp-----y2025-a100-p01'; // meetingCode
-const surveySheet= 'doc1/surveySheet.md'; // seuveySheet
+const repository= 'dddp-jp-----y2025-a100-p01';
+const surveySheet= 'doc1/surveySheet.md';
 const surveyDay = '2026/3/12';
 const thema = 'Sample Thema';
 const year = 'y2025';//meeting year
 const areaCode ='jp----';
 const areaName1 ='japan';
 const areaName2 ='日本';
-const options = [4,4,2,2]; //Number of options per question
-const subAreaLevel = 3; // detail level of report
+const options = [3,3,2,2]; 
+const subAreaLevel = 3; 
 
 // sample
 // const account = 'zafa834'; // GitHub account
@@ -22,7 +22,7 @@ const subAreaLevel = 3; // detail level of report
 // const areaCode ='jp-14---';
 // const areaName1 ='japan Kanagawa';
 // const areaName2 ='日本　神奈川県';
-// const options = [5,3]; //Number of options per question
+// const options = [3,3,2,2]; //Number of options per question,max question number is 10
 // const subAreaLevel = 3; // detail level of report
 
 
