@@ -7,7 +7,7 @@ const surveyDay = '2026/3/12';
 const thema = 'Sample Thema';
 const year = 'y2025';//meeting year
 const areaCode ='jp----';
-const areaName ='japan';
+const areaName1 ='japan';
 const areaName2 ='日本';
 const options = [4,4,2,2]; //Number of options per question
 const subAreaLevel = 3; // detail level of report
@@ -20,7 +20,7 @@ const subAreaLevel = 3; // detail level of report
 // const thema = 'Sample Thema';
 // const year = 'y2025';//meeting year
 // const areaCode ='jp-14---';
-// const areaName ='japan Kanagawa';
+// const areaName1 ='japan Kanagawa';
 // const areaName2 ='日本　神奈川県';
 // const options = [5,3]; //Number of options per question
 // const subAreaLevel = 3; // detail level of report
@@ -32,7 +32,7 @@ const subAreaLevel = 3; // detail level of report
 if (typeof module !== 'undefined' && module.exports) {
     // Node.js
     module.exports = { account,repository,surveySheet,surveyDay,
-        thema,year,areaCode, areaName,areaName2,options,subAreaLevel
+        thema,year,areaCode, areaName1,areaName2,options,subAreaLevel
     }
 } else if (typeof window !== 'undefined') {
     // for browser, attach the variables to the window object
@@ -43,7 +43,7 @@ if (typeof module !== 'undefined' && module.exports) {
     window.thema = thema;
     window.year = year;
     window.areaCode = areaCode;
-    window.areaName1 = areaName;
+    window.areaName1 = areaName1;
     window.areaName2 = areaName2;
     window.options = options;
     window.subAreaLevel = subAreaLevel;
