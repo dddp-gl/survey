@@ -11,7 +11,7 @@ const areaName1 ='japan';
 const areaName2 ='日本';
 const options = [3,3,2,2]; 
 const subAreaLevel = 3; 
-const crossData= 'no';
+const crossData= 'yes';
 
 // sample
 // const account = 'zafa834'; // GitHub account
