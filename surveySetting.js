@@ -11,6 +11,7 @@ const areaName1 ='japan';
 const areaName2 ='日本';
 const options = [3,3,2,2]; 
 const subAreaLevel = 3; 
+const crossData= 'no';
 
 // sample
 // const account = 'zafa834'; // GitHub account
@@ -24,7 +25,7 @@ const subAreaLevel = 3;
 // const areaName2 ='日本　神奈川県';
 // const options = [3,3,2,2]; //Number of options per question,max question number is 10
 // const subAreaLevel = 3; // detail level of report
-
+// const crossData = 'yes'; // 'no' or 'yes' (if 'yes',export cross-analysis data for interrelated questions in the survey.)
 
 // change code by environment for Node.js and browser
 // for Node.js, export the variables
@@ -32,7 +33,7 @@ const subAreaLevel = 3;
 if (typeof module !== 'undefined' && module.exports) {
     // Node.js
     module.exports = { account,repository,surveySheet,surveyDay,
-        thema,year,areaCode, areaName1,areaName2,options,subAreaLevel
+        thema,year,areaCode, areaName1,areaName2,options,subAreaLevel,crossData
     }
 } else if (typeof window !== 'undefined') {
     // for browser, attach the variables to the window object
@@ -47,6 +48,7 @@ if (typeof module !== 'undefined' && module.exports) {
     window.areaName2 = areaName2;
     window.options = options;
     window.subAreaLevel = subAreaLevel;
+    window.crossData = crossData;
 };
 
 // -----
