@@ -9,7 +9,7 @@ const year = 'y2025';//meeting year
 const areaCode ='jp----';
 const areaName1 ='japan';
 const areaName2 ='日本';
-const options = [3,3,2,2]; 
+const options = [4,4,2,2]; 
 const subAreaLevel = 3; 
 const crossData= 'yes';
 
@@ -24,7 +24,7 @@ const crossData= 'yes';
 // const areaName1 ='japan Kanagawa';
 // const areaName2 ='日本　神奈川県';
 // const options = [3,3,2,2]; //Number of options per question,max question number is 10
-// const subAreaLevel = 3; // detail level of report
+// const subAreaLevel = 3; // detail level of report    level 1 ～ 5
 // const crossData = 'yes'; // 'no' or 'yes' (if 'yes',export cross-analysis data for interrelated questions in the survey.)
 
 // change code by environment for Node.js and browser
