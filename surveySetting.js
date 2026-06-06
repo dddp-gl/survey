@@ -3,7 +3,7 @@
 const account = 'zafa834'; // GitHub account
 const repository= 'dddp-jp-----y2025-a100-p01';
 const surveySheet= 'doc1/surveySheet.md';
-const surveyDay = '2026/6/4';
+const surveyDay = '2026/06/06';
 const thema = 'Sample Thema';
 const year = 'y2025';//meeting year
 const areaCode ='jp----';
@@ -17,7 +17,7 @@ const crossData= 'yes';
 // const account = 'zafa834'; // GitHub account
 // const repository= 'dddp-jp-----y2025-a100-p01'; // meetingCode
 // const surveySheet= doc1/serveySheet.md; // seuveySheet
-// const surveyDay = '2026/2/25';　(Error Example) 2026/02/25
+// const surveyDay = '2026/01/01';　(Error Example) 2026/1/1
 // const thema = 'Sample Thema';
 // const year = 'y2025';//meeting year
 // const areaCode ='jp-14---';
